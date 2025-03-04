@@ -33,10 +33,10 @@
 
 <p>PyData Panama tiene como objetivos:</p>
 
-* Crear una comunidad activa donde profesionales, estudiantes e investigadores puedan compartir conocimientos, experiencias y mejores prácticas.
-* Fomentar el uso y desarrollo de herramientas open-source para la ciencia de datos y análisis de datos en Python.
-* Organizar eventos, meetups, talleres y hackathons para fortalecer la educación en datos y la inteligencia artificial en Panamá.
-* Conectar a expertos, empresas e instituciones académicas con el ecosistema de datos.
+1. Crear una comunidad activa donde puedan conectar profesionales, estudiantes e investigadores para compartir conocimientos, experiencias y mejores prácticas en el ecosistema de datos.
+2. Fomentar el uso y desarrollo de herramientas open-source para la ciencia de datos y análisis de datos en Python.
+3. Organizar eventos, meetups, talleres y hackathons para fortalecer la educación en datos y la inteligencia artificial en Panamá.
+
 
 
 # 📌 ¿Cómo participar?
