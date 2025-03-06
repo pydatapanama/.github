@@ -31,7 +31,7 @@
 
 # 🚀 Nuestros Objetivos
 
-<p>PyData Panama tiene como objetivos:</p>
+<p>PyData Panamá tiene como objetivos:</p>
 
 1. Crear una comunidad activa donde puedan conectar profesionales, estudiantes e investigadores para compartir conocimientos, experiencias y mejores prácticas en el ecosistema de datos.
 2. Fomentar el uso y desarrollo de herramientas open-source para la ciencia de datos y análisis de datos en Python.
@@ -41,13 +41,12 @@
 
 # 📌 ¿Cómo participar?
 
-<p>Queremos que seas parte de PyData Panama y hay muchas formas de contribuir:</p>
+<p>Queremos que seas parte de PyData Panamá y hay muchas formas de contribuir:</p>
 
-* Asistiendo a eventos: Únete a nuestras charlas, reuniones y talleres. Puedes estar atento a nuestras actividades en MeetUp
-* Proponiendo charlas y talleres: Si tienes experiencia en ciencia de datos, machine learning, análisis de datos o Python, ¡nos encantaría que compartieras tu conocimiento!
+* Creando tutoriales y retos: Si tienes experiencia en ciencia de datos, machine learning, análisis de datos o Python, ¡nos encantaría que compartieras tu conocimiento! Revisa los detalles de cómo crear [Tutoriales](https://github.com/pydatapanama/pydatapanama-tutoriales) y como crear [Retos](https://github.com/pydatapanama/pydatapanama-retos).
+* Asistiendo a eventos: Únete a nuestras charlas, reuniones y talleres. Puedes estar atento a nuestras actividades en [MeetUp](https://www.meetup.com/pydata-panama/)
 * Colaborando en proyectos open-source: Puedes contribuir con código, documentación o revisión de proyectos relacionados con PyData.
-* Ayudando en la organización: Buscamos voluntarios para apoyar en la logística de eventos, gestión de comunidad y redes sociales.
-* Difundiendo la comunidad: Comparte nuestros eventos y contenido en redes sociales para que más personas puedan sumarse.
+* Difundiendo la comunidad: Comparte nuestros eventos y este repositorio en redes sociales para que más personas puedan sumarse.
 
 ## 🌎 Sobre PyData (Red Global)
 * PyData es un programa educativo de NumFOCUS, una organización sin fines de lucro 501(c)3.
